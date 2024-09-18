@@ -1,5 +1,6 @@
 # Amazon-clone
 Hi👋 I'm Ruchika Kengal
+
 Welcome to our Amazon Clone Project! This frontend-focused initiative aims to replicate the user interface and experience of one of the world's largest e-commerce platforms. Built using HTML and CSS, this project showcases our skills in web design and development, focusing on creating a responsive and visually appealing layout.
 
 Languages Used:HTML and CSS
